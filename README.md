@@ -1,1 +1,2 @@
-# Ideas and code for collecting company data to support sales and marketing activities. GDPR compliant.
+# Sales tools
+#### Ideas and code for collecting company data to support sales and marketing activities. GDPR compliant.
